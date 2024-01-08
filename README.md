@@ -1,7 +1,8 @@
-# Cart
-Shopping Cart Exercise with Strapi
+# Shopping Cart Exercise with Strapi/Postman/React
 
-About: React is used for this application and Strapi is used as the back end database. Strapi project specific database must be created/initialed via http://localhost1337. Postman is being utilized as the API tool for this Project.
+About: 
+
+React is used for this application and Strapi is used as the back end database. Strapi project specific database must be created/initialed via http://localhost1337. Postman is being utilized as the API tool for this Project.
 
 The Assignment: 
 
@@ -14,6 +15,7 @@ Create a basic react shopping cart application. Functionality includes:
 Future Roadmap
 
 A. Improve functionality to combine the restock quantities from Strapi that already exist on the product list to display as a single entry.
+
 B. Allow users to select which items they need restocked/query if that item is available for restocking.
 
 Screenshot:
