@@ -15,7 +15,6 @@ Create a basic react shopping cart application. Functionality includes:
 Future Roadmap
 
 A. Improve functionality to combine the restock quantities from Strapi that already exist on the product list to display as a single entry.
-
 B. Allow users to select which items they need restocked/query if that item is available for restocking.
 
 Screenshot:
