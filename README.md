@@ -20,5 +20,7 @@ B. Allow users to select which items they need restocked/query if that item is a
 Screenshot:
 ![image](https://github.com/yfung8/Cart/assets/61643572/0f7c2bf7-6fd9-4144-8832-dfff0f523790)
 
+Project Walk Through Video: https://www.loom.com/share/2281dbe4e7be42d883e5161787795030?sid=367fe893-5cdf-47c5-8116-1dea2cd85476
+
 License:
 This project is licensed under the terms of the MIT License.
