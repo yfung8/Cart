@@ -12,6 +12,7 @@ Create a basic react shopping cart application. Functionality includes:
 4. Checkout showing each item in the cart for purchase and a running total at the top of the cost of all items for checkout. Clicking the "Checkout" button clears pops up a message for the user that checkout has been completed and reset set the page for the next user.
 
 Future Roadmap
+
 A. Improve functionality to combine the restock quantities from Strapi that already exist on the product list to display as a single entry.
 B. Allow users to select which items they need restocked/query if that item is available for restocking.
 
